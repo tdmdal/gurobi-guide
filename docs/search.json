@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Quick-Start Guide",
+    "section": "",
+    "text": "Installation\nFollow the steps below to install Gurobi and gurobipy. As a side note, thegurobipy package itself ships with a size-limited Gurobi trial license which can solve models with up to 2000 variables and 2000 constraints. Therefore, you could skip the step 1 below if the optimization problems you plan to solve are within the limit.\n\nFollow a 5-step instruction here to download and install the Gurobi Optimizer (version 10 with Academic Named-User License).\nImportant: To activate the academic license (step 5), you computer must be connected to the UofT network.\nInstall the gurobipy package. You could simply use pip.\npip install gurobipy\nAlternatively, if you use the Anaconda Python distribution, and are familiar with conda, you could use the conda command line (the -c option specifies the gurobi channel).\nconda install -c gurobi gurobi\n\nDownload and run this simple example (mip.py) to verify your installation.\n\n\n\n\nAn Example\n\nSolve a MIP problem (  )\nThis Python notebook walks you through the steps to formulate and solve a simple MIP (Mixed-Integer Programming) problem. This is the same example as in Gurobi’s official document.\n\n\n\n\nResources\n\nResources for Academic Users (including video tutorials on MIP and LP problems)\nGurobi Python Quickstart Examples (three examples to get you started with gurobipy)\nJupyter Notebook Modeling Examples (business case studies)\nGurobi Examples List (official examples from Gurobi)\nGurobi Python API Overview and Details (gurobipy reference manual)\n\n\nBack to TDMDAL Computing Page"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  }
+]
