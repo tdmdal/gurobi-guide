@@ -12,7 +12,7 @@ Follow the steps below to install Gurobi and `gurobipy`. As a side note, the`gur
 
 1. Follow a 5-step instruction [here](https://www.gurobi.com/features/academic-named-user-license/) to download and install the Gurobi Optimizer (version 10 with Academic Named-User License).
 
-    **Important:** To activate the academic license (step 5), you computer must be connected to the UofT network.
+    **Important:** To activate the academic license (step 5), your computer must be connected to the UofT network.
 
 2. Install the `gurobipy` package. You could simply use `pip`.
 
